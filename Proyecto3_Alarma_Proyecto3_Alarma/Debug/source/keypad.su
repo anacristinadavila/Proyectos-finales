@@ -1,0 +1,8 @@
+keypad.c:13:6:config_input_pin	24	static
+keypad.c:17:6:config_output_pin	24	static
+keypad.c:26:6:set_keypad_config	80	static
+keypad.c:112:6:get_default_keypad_config	32	static
+keypad.c:130:6:set_cols	24	static
+keypad.c:144:9:get_rows	32	static
+keypad.c:165:6:delay	24	static
+keypad.c:174:6:read_keypad	32	static
