@@ -1,0 +1,9 @@
+fsl_gpio.h:157:20:GPIO_WritePinOutput	24	static
+fsl_gpio.h:197:20:GPIO_TogglePinsOutput	16	static
+fsl_gpio.h:215:24:GPIO_ReadPinInput	16	static
+fsl_tpm.h:506:24:TPM_GetStatusFlags	16	static
+fsl_tpm.h:518:20:TPM_ClearStatusFlags	16	static
+fsl_tpm.h:545:20:TPM_SetTimerPeriod	16	static
+fsl_tpm.h:579:20:TPM_StartTimer	24	static
+fsl_tpm.h:593:20:TPM_StopTimer	16	static
+Proyecto2_semaforo_Proyecto2_semaforo.c:66:5:main	472	static
